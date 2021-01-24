@@ -1,1 +1,1 @@
-{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EACI,uBAAuB,EAC1B","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n.container {\n    background-color: aqua;\n}"]}
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EACI,iCAAiC,EACpC","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n.container {\n    background-color: cornflowerblue;\n}"]}
